@@ -46,7 +46,7 @@ Flagionary is a Discord bot designed to provide a fun and educational experience
 
 5. Run the bot:
     ```bash
-    python bot.py
+    python flag_main.py
     ```
 
 ## Usage
@@ -60,9 +60,4 @@ Flagionary is a Discord bot designed to provide a fun and educational experience
 Feel free to fork this repository and make any improvements or additions. Pull requests are welcome.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or suggestions, feel free to open an issue or contact me directly.
-
-Enjoy learning flags with Flagionary!
+This project is licensed under the MIT License - see the [LICENSE](LIC
