@@ -57,7 +57,7 @@ Flagionary is a Discord bot designed to provide a fun and educational experience
 - End the round anytime using `f.end`.
 
 ## Contributing
-Feel free to fork this repository and make any improvements or additions. Pull requests are welcome.
+Feel free to fork this repository and make any improvements or additions. Pull requests are welcome for all.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
