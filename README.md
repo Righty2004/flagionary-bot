@@ -6,7 +6,7 @@ Flagionary is a Discord bot designed to provide a fun and educational experience
 - **Fun and Educational**: Engage in a game where you guess country flags, promoting both fun and learning.
 - **Interactive Rounds**: Start a new round and guess the flag within the time limit.
 - **Hints and Skips**: Get hints or skip levels if you find the question too difficult.
-- **Leaderboard**: Keep track of your progress and see how you rank among others.
+- **Leaderboard**: Keep track of your progress and see how you rank among others
 
 ## Commands
 - `f.set`: Set the current channel for the bot to operate in.
